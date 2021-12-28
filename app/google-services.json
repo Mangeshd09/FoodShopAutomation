@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682544710819",
+    "project_id": "foodshopautomation-a6946",
+    "storage_bucket": "foodshopautomation-a6946.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682544710819:android:92160b694ecc7a5b896b16",
+        "android_client_info": {
+          "package_name": "com.example.foodshopautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682544710819-j9ocs9a4amp7vtkivhe58c57duj3er7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodshopautomation",
+            "certificate_hash": "4484fb830a4908684652e5fe00830702eb928886"
+          }
+        },
+        {
+          "client_id": "682544710819-1durus0u0mhoqdvmeeqdt9slqs3u3553.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpSh-n24QIDvVZyZZ4iHiNEeYwnUTQn98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682544710819-1durus0u0mhoqdvmeeqdt9slqs3u3553.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
